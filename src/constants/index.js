@@ -5,9 +5,4 @@ export const  navLinks=[
     {label:'watch'},
     {label:'Vision'},
     {label:'Airpods'},
-    {label:'Airpods'},
-    {label:'Airpods'},
-    {label:'Airpods'},
-    {label:'Airpods'},
-    {label:'Airpods'},
 ]
